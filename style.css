@@ -1,0 +1,6 @@
+/* Definir el estilo para el elemento .hora-actual */
+.hora-actual {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
